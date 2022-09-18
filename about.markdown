@@ -17,14 +17,14 @@ I started working on this website because I wanted to have a centralised hub whe
 <br>
 # Socials
 I do not have many socials, and most of them are shared on a per-person basis (meaning I only send them to people I trust), because being googleable freaks me out.
-
-- Email: (Will add once I have my own domain)
+/
+- Email\*: kaiya@calicocali.co 
 - Matrix\*: @numbkaiya:envs.net
 - [Github](https://github.com/calicokaiya)
 - [Main Discord](https://discoid.cc/487398336685408266)
-- [Paypal](https://paypal.me/numbkaiya)
+- [Paypal.me](https://paypal.me/numbkaiya) *(if you have nothing else to do with your money)*
 
-*\*: preferred method of communication*
+*\*: preferred method(s) of communication*
 
 This project is open source on [Github](https://github.com/calicokaiya/calicokaiya.github.io). If you see something that is wrong, feel free to create a [pull request](https://youtu.be/8lGpZkjnkt4)
 
