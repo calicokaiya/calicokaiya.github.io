@@ -4,7 +4,10 @@
 
 layout: home
 ---
+<<<<<<< HEAD
 # Welcome to CalicoCalico
+=======
+>>>>>>> ebfb4492bf86405eb27a2664e86878541aaa3427
 
 This is my personal corner of the internet, where I post about my projects and other cool shit that I may make.
 
