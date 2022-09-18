@@ -4,7 +4,6 @@
 
 layout: home
 ---
-# Welcome to CalicoCalico.
 
 This is my personal corner of the internet, where I post about my projects and other cool shit that I may make.
 
