@@ -11,6 +11,8 @@ If you want to use any of them for any purposes, contact me on any communication
 
 <br>
 # Photos
+[![Link]({{site.baseurl}}photos/IMG_0593.png)]({{site.baseurl}}photos/IMG_0593.png)
+
 [![Link]({{site.baseurl}}photos/IMG_0076.JPG)]({{site.baseurl}}photos/IMG_0076.JPG)
 
 [![Link]({{site.baseurl}}photos/IMG_0469.JPG)]({{site.baseurl}}photos/IMG_0469.JPG)
